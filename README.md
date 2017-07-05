@@ -47,8 +47,7 @@ Other sources of relevant documentation
 
 Below is a picture of the H107 PCB top (left side of the picture is mounted at the front of the quad):
 
-![H107 PCB top]
-(https://raw.githubusercontent.com/lgeek/h107_rev/master/img/h107/pcb_top_overview.jpg)
+![H107 PCB top](https://raw.githubusercontent.com/lgeek/h107_rev/master/img/h107/pcb_top_overview.jpg)
 
 From left to right, we have:
 
