@@ -38,7 +38,7 @@ Scope of this project
 Other sources of relevant documentation
 ---------------------------------------
 
-* [Deviation](http://www.deviationtx.com) TX firmware developers have reversed engineered the radio protocol [here](https://bitbucket.org/PhracturedBlue/deviation/src/3b623a8d08f5ba5184b1a1fdb545ad255c07ded5/doc/Hubsan.txt?at=default).
+* [Jim Hung](http://www.jimhung.co.uk) reversed engineered the control protocol between MCU and transceiver [here](http://www.jimhung.co.uk/wp-content/uploads/2014/11/HubsanX4_ProtocolSpec_v1.txt) ([mirror](PROTOCOL.txt)).
 
 
 # Hardware
